@@ -73,6 +73,7 @@ module.exports = {
                 "plugin/loadbalancer",
                 "plugin/router",
                 "plugin/tag-transmission",
+                "plugin/rocketmq-message-grayscale",
                 "plugin/monitor",
                 "plugin/visibility",
                 "plugin/mq-consume-prohibition",
